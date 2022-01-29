@@ -1,0 +1,4 @@
+Title: DigiGames #01 DigiCollector
+Description: Miners are getting a lot of DigiByte! Collect as much coins as you can but be careful with the bombs, if three of them hit you, you are out!
+Units: 3
+Website: https://digipixel.me/
