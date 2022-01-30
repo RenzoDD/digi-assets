@@ -1,0 +1,5 @@
+Name: DigiByte Price Monitor
+Description: This tool shows the current DigiByte price in USD and BTC! The data is retrieved from the Binance exchange
+Units: 10
+WebSite: https://digibyte.org/
+Royalties: 1 USD
