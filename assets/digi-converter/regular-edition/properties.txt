@@ -1,0 +1,5 @@
+Name: DigiByte Converter
+Description: This tool will help you calculate the conversion rate from digibyte to other cryptocurrencies! The data is retrieved from the Binance exchange.
+Units: 10
+WebSite: https://digibyte.org/
+Royalties: 1 USD
