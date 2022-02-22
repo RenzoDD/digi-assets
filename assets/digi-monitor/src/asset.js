@@ -80,7 +80,7 @@ function draw() {
 
   if (float(usd.lastPrice) < float(usdLastPrice))
     fill('#F6465D');
-  else if (float(usd.lastPrice) > float(usd.prevClosePrice))
+  else if (float(usd.lastPrice) > float(usdLastPrice))
     fill('#0ECB81')
   else
     fill('#BEC3CA');
