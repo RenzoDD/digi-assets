@@ -1,0 +1,8 @@
+This is my first DigiByte purchase.
+Executed on the Binance exchange on Thursday, February 25, 2021 at 09:28:09 UTC.
+
+I got a total of 244.55500000 DGB
+It cost (0.055 USD / 0.00000119 BTC) per DGB
+
+The TXID was ea1840d40c5a19a80f8463fbfb5c70cfeeae616eb56ef626b8eed2bd603ec8aa.
+It was included in the block 12488731 of the DigiByte Blockchain.
