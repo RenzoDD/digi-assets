@@ -1,0 +1,5 @@
+Title: DigiGames #02 DigiPong First Edition
+Description: Challenge a partner to a ping pong match, the first to reach 10 points wins!
+Units: 3
+Website: https://digipixel.me/
+Royalties: 5 USD
