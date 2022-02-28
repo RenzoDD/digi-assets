@@ -1,0 +1,4 @@
+Title: DigiGames #02 DigiPong
+Description: Challenge a partner to a ping pong match, the first to reach 10 points wins!
+Units: 1000
+Website: https://digipixel.me/
