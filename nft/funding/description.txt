@@ -1,0 +1,4 @@
+Name: Renzo's Funding Asset
+Description: Thank you very much for collaborating into funding my DigiByte projects! With this DigiAsset you can vote on important decisions related to the direction of my projects and have early access to some of them.
+Count: 20000
+Web: https://twitter.com/RenzoDGB
