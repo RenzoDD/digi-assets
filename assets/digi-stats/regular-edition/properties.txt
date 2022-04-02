@@ -1,0 +1,5 @@
+Name: DigiByte Statistics
+Description: Watch the current state of the DigiByte blockchain with information retrieved from chainz.cryptoid.info and digibyte block explorer.com!
+Units: 10
+WebSite: https://digibyte.org/
+Royalties: 1 USD
