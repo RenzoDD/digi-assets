@@ -1,0 +1,5 @@
+Title: DigiGames #04 Rekt Adventure
+Description: Help DeeGeBi and his friends get through the Rekt Asteroid field save. But be careful, there is a danger waiting for you at the exit! 
+Units: 1000
+Website: https://digipixel.me/
+Royalties: 1 USD
